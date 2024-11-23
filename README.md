@@ -3,4 +3,4 @@
 
 ## Calculadora de IMC usando Streamlit.
 
-![IMG]("./IMC.png")
+![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
