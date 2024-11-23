@@ -5,5 +5,5 @@
 
 
 
-<img src="IMC.png" alt="Aplicação" width="300">
+<img src="IMC.png" alt="Aplicação" width="700">
 
